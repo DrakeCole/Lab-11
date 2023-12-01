@@ -1,4 +1,3 @@
-package binary3;
 
 public class Lab11Prob03 {
 
